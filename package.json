@@ -1,0 +1,11 @@
+{
+  "name": "haminja-api",
+  "version": "1.0.0",
+  "description": "A simple application to interact with the Haminja API",
+  "main": "src/haminja_api.py",
+  "scripts": {
+    "start": "python src/haminja_api.py"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
